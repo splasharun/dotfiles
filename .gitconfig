@@ -1,0 +1,17 @@
+[core]
+	editor = vim
+[user]
+	email = arun.kumar@bootlabstech.com
+	name = arun-kumar34
+[ghq]
+	root = ~/code
+[alias]
+	rc = commit --reuse-message=HEAD --reset-author
+	s = status
+	c = commit
+	l = log
+	lo = log --oneline
+	aa = add -A
+	au = add -u
+	ch = checkout
+	re = reset
